@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="bbbb3a31-b227-452c-a7c8-11bb494fe20f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crudjango/CRUD/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/Crudjango/CRUD/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crudjango/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/Crudjango/db.sqlite3" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +89,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571976644472</updated>
-      <workItem from="1571976648001" duration="5834000" />
+      <workItem from="1571976648001" duration="7364000" />
+      <workItem from="1572319205580" duration="600000" />
     </task>
     <servers />
   </component>
@@ -99,13 +102,15 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Crudjango2019$manage.coverage" NAME="manage Coverage Results" MODIFIED="1571982241384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Crudjango" />
+    <SUITE FILE_PATH="coverage/Crudjango2019$manage.coverage" NAME="manage Coverage Results" MODIFIED="1572319990561" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Crudjango" />
   </component>
 </project>

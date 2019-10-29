@@ -6,5 +6,5 @@ from django.db import models
 # Create your models here.
 class ListaLibros(models.Model):
     titulo = models.CharField(max_length=100)
-    precio = models.ImageField()
+    precio = models.IntegerField()
     autor = models.CharField(max_length=100)
